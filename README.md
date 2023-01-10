@@ -51,10 +51,7 @@
 
 ### :mailbox: Contacts:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BA%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D1%86%D0%B5%D0%B2%D0%B0-195266257/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/Viktoria_Krasavceva">
+    <a href="https://t.me/Viktoria_Krasavceva">
   <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
